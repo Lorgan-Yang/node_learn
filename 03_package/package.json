@@ -1,0 +1,12 @@
+{
+  "name": "03_package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01_npm.js",
+  "scripts": {
+    "hello": "dir"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
